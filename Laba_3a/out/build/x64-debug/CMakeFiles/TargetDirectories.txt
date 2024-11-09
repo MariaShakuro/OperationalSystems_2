@@ -1,0 +1,5 @@
+C:/from_past_pc/Labs 2 grade/OC/Laba_3a/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/from_past_pc/Labs 2 grade/OC/Laba_3a/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/from_past_pc/Labs 2 grade/OC/Laba_3a/out/build/x64-debug/Laba_3a/CMakeFiles/Laba_3a.dir
+C:/from_past_pc/Labs 2 grade/OC/Laba_3a/out/build/x64-debug/Laba_3a/CMakeFiles/edit_cache.dir
+C:/from_past_pc/Labs 2 grade/OC/Laba_3a/out/build/x64-debug/Laba_3a/CMakeFiles/rebuild_cache.dir
