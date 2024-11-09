@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "ReporterTest",
+    "Command": "D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/Reporter/Reporter.exe",
+    "Arguments": [
+      "input.bin",
+      "output",
+      "10.0"
+    ],
+    "WorkingDirectory": "D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug",
+    "ProjectFile": "D:/Labs 2 grade/OC/Laba_1/Laba1/CMakeLists.txt",
+    "LineNumber": 27,
+    "Environment": {},
+    "ExpectsFailure": false,
+    "PassRegularExpression": null,
+    "FailRegularExpression": null,
+    "TargetName": "Reporter.exe (Reporter\\Reporter.exe)",
+    "TimeoutInMs": -1
+  }
+]

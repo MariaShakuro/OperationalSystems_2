@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
+D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule

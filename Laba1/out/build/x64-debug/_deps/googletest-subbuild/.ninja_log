@@ -1,0 +1,21 @@
+# ninja log v5
+16139	16296	7491650908221468	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	b23c3f91df8e65d
+5	179	7491650747068807	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	91f921a52f4c7086
+15693	15841	7491650903728533	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	cb3ceb059ef09c1d
+16587	16800	7491650913239931	CMakeFiles/googletest-populate-complete	d03c910b35d3bd73
+15990	16139	7491650906647542	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f8277517dc7e7125
+5	179	7491650747068807	D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	91f921a52f4c7086
+181	15692	7491650902218485	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	596595c57cd3130e
+181	15692	7491650902218485	D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	596595c57cd3130e
+15693	15841	7491650903728533	D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	cb3ceb059ef09c1d
+15843	15989	7491650905148302	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	d25031bc44690f8e
+16587	16800	7491650913239931	D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	d03c910b35d3bd73
+15843	15989	7491650905148302	D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	d25031bc44690f8e
+16139	16296	7491650908221468	D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	b23c3f91df8e65d
+15990	16139	7491650906647542	D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f8277517dc7e7125
+16435	16587	7491650911147662	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	8655bb1c73e437b5
+16296	16435	7491650909663743	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	838a8b54ba3c3cc
+16296	16435	7491650909663743	D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	838a8b54ba3c3cc
+16435	16587	7491650911147662	D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	8655bb1c73e437b5
+16587	16800	7491650913239931	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	d03c910b35d3bd73
+16587	16800	7491650913239931	D:/Labs 2 grade/OC/Laba_1/Laba1/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	d03c910b35d3bd73

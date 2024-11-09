@@ -1,0 +1,4 @@
+Report of file "maria"
+Number of employee,Name of employee,Worked hours,Salary
+1. katsya, 33, 1452
+2. ddd, 3, 132

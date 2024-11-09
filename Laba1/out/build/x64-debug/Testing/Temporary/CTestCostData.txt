@@ -1,0 +1,12 @@
+test_creator 3 0.00772297
+test_reporter 6 0.0044417
+test_main 1 0
+RunTest1 0 0
+RunTest2 1 0.124364
+RunTest3 0 0
+ErrorTest1 0 0
+ErrorTest2 0 0
+MainTest 0 0
+CreatorTest 1 0
+ReporterTest 3 0.706733
+---

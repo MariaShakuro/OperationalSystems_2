@@ -1,0 +1,2 @@
+Report of file "test_empty.bin"
+Number of employee,Name of employee,Worked hours,Salary
