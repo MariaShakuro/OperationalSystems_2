@@ -1,0 +1,8 @@
+C:/from_past_pc/Labs 2 grade/OC/Laba_4/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/from_past_pc/Labs 2 grade/OC/Laba_4/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/from_past_pc/Labs 2 grade/OC/Laba_4/out/build/x64-debug/Sender/CMakeFiles/Sender.dir
+C:/from_past_pc/Labs 2 grade/OC/Laba_4/out/build/x64-debug/Sender/CMakeFiles/edit_cache.dir
+C:/from_past_pc/Labs 2 grade/OC/Laba_4/out/build/x64-debug/Sender/CMakeFiles/rebuild_cache.dir
+C:/from_past_pc/Labs 2 grade/OC/Laba_4/out/build/x64-debug/Laba_4/CMakeFiles/Laba_4.dir
+C:/from_past_pc/Labs 2 grade/OC/Laba_4/out/build/x64-debug/Laba_4/CMakeFiles/edit_cache.dir
+C:/from_past_pc/Labs 2 grade/OC/Laba_4/out/build/x64-debug/Laba_4/CMakeFiles/rebuild_cache.dir
