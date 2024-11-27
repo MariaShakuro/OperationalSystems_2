@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Sender",
+					"jsonFile" : "directory-Sender-Debug-61cd958922b74f244f71.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Sender",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Laba_4",
+					"jsonFile" : "directory-Laba_4-Debug-d4bc5ec5c72e8b69ba1b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Laba_4",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "Laba_4",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "Laba_4::@cf37d3b50e0250315e33",
+					"jsonFile" : "target-Laba_4-Debug-7d91dba12afc88fca9ea.json",
+					"name" : "Laba_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Sender::@8aa274d3b88f371fe978",
+					"jsonFile" : "target-Sender-Debug-a93b38f009f15eb48157.json",
+					"name" : "Sender",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/from_past_pc/Labs 2 grade/OC/Laba_4/out/build/x64-debug",
+		"source" : "C:/from_past_pc/Labs 2 grade/OC/Laba_4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -15,6 +15,7 @@
 		[
 			"add_executable",
 			"target_include_directories",
+			"include_directories",
 			"set_property"
 		],
 		"files" : 
@@ -41,7 +42,13 @@
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 9,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 10,
 				"parent" : 0
 			}
 		]
@@ -52,7 +59,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI"
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG -std:c++20"
 				}
 			],
 			"includes" : 
@@ -60,6 +67,10 @@
 				{
 					"backtrace" : 2,
 					"path" : "C:/from_past_pc/Labs 2 grade/OC/Laba_4/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/from_past_pc/Labs 2 grade/OC/Laba_4/../Sender"
 				}
 			],
 			"language" : "CXX",
@@ -67,7 +78,7 @@
 			{
 				"backtraces" : 
 				[
-					3
+					4
 				],
 				"standard" : "20"
 			},
@@ -83,11 +94,11 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI",
+				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG",
 				"role" : "flags"
 			},
 			{
-				"fragment" : "/machine:x64 /debug /INCREMENTAL /subsystem:console",
+				"fragment" : "/machine:x64 /INCREMENTAL:NO /subsystem:console",
 				"role" : "flags"
 			},
 			{

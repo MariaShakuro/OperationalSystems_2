@@ -5,6 +5,7 @@
 # Добавьте источник в исполняемый файл этого проекта.
 add_executable (Laba_4 "Laba_4.cpp" "Laba_4.h")
 target_include_directories(Laba_4 PRIVATE ${PROJECT_SOURCE_DIR}/include)
+include_directories(${PROJECT_SOURCE_DIR}/../Sender)
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET Laba_4 PROPERTY CXX_STANDARD 20)
 endif()

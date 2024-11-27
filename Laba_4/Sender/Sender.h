@@ -5,6 +5,6 @@
 #include <string>
 
 
-void writeToFile(const std::string& filename, const std::string& message);
+
 
 #endif // SENDER_H

@@ -144,7 +144,7 @@ build cmake_object_order_depends_target_Laba_4: phony || .
 
 build Laba_4\CMakeFiles\Laba_4.dir\Laba_4.cpp.obj: CXX_COMPILER__Laba_4_unscanned_Debug C$:\from_past_pc\Labs$ 2$ grade\OC\Laba_4\Laba_4\Laba_4.cpp || cmake_object_order_depends_target_Laba_4
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI
-  INCLUDES = -I"C:\from_past_pc\Labs 2 grade\OC\Laba_4\include"
+  INCLUDES = -I"C:\from_past_pc\Labs 2 grade\OC\Laba_4\include" -I"C:\from_past_pc\Labs 2 grade\OC\Laba_4\..\Sender"
   OBJECT_DIR = Laba_4\CMakeFiles\Laba_4.dir
   OBJECT_FILE_DIR = Laba_4\CMakeFiles\Laba_4.dir
   TARGET_COMPILE_PDB = Laba_4\CMakeFiles\Laba_4.dir\

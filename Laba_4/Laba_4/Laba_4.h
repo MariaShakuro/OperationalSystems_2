@@ -4,6 +4,6 @@
 #include <vector>
 #include <string>
 
-void readBinaryFile(const std::string& filename);
+
 
 #endif LABA_4_H
