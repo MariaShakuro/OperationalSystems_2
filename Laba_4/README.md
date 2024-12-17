@@ -42,12 +42,15 @@ Sender. Процессы Sender посылают сообщения процес
   Если сразу не запускается,то надо удалить файлы в папке out все файлы (.cmake)
   
   * Первое окно(Первый процесс Sender):
+    
 ![image](https://github.com/user-attachments/assets/68b7b92b-7d1d-4f58-8768-f477a05949ef)
 
   *Второе окно(Второй процесс Sender):
+  
 ![image](https://github.com/user-attachments/assets/7dcc558c-5c1e-4f28-a0f1-a97238f52e18)
   
   *Общее окно:
+  
 ![image](https://github.com/user-attachments/assets/0ca37f85-b946-4ef5-9310-52d873be1257)
 
 
