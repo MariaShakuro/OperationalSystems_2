@@ -61,6 +61,6 @@
   *Открыть в IDE(Я предпочитаю Visual Studio)
  
   *Собрать проект и запустить
-  
+  Если сразу не запускается,то надо удалить файлы в папке out все файлы (.cmake)
  ![image](https://github.com/user-attachments/assets/8cd07266-8ea2-40eb-9029-d995726eaff7)
 
