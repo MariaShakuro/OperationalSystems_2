@@ -42,8 +42,10 @@
 **2.Решение:**
 
   *Открыть в IDE(Я предпочитаю Visual Studio)
+  
   *В папке Main в main.cpp изменить пути(всё до //Laba1//...) к Creator.exe и Reporter.exe
   ![image](https://github.com/user-attachments/assets/4a8f356f-2ea5-4f81-9a84-1a1ad53413f7)
   ![image](https://github.com/user-attachments/assets/e995bcc3-d799-4cc4-ab11-18ffaaee8188)
+  
   *Собрать проект и запустить
   ![image](https://github.com/user-attachments/assets/88e4ad38-c7a9-4b85-8a5c-401499084912)
